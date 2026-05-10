@@ -257,6 +257,8 @@ main {
 
         td {
           @extend %table-cell;
+
+          white-space: normal;
         }
       }
     } /* tbody */
